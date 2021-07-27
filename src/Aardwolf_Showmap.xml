@@ -38,6 +38,9 @@
 >    showmap version
         - displays the version of the Showmap plugin (also visible in help)
 	
+>    showmap update
+        - update the map data from the boot map list
+
 >    showmap help
         - shows only this help
 	

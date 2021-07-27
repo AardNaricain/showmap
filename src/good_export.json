@@ -1,0 +1,1282 @@
+{
+    "aardington":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AardingtonEstate\" target=\"_blank\" rel=\"noopener noreferrer\">Aardington Estate</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AardingtonEstate\" target=\"_blank\" rel=\"noopener noreferrer\">Aardington Estate</a><br><a href=\"https://aardwolfboot.com/map/Aardington_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Aardington_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "birthday":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AardwolfBirthdayArea\" target=\"_blank\" rel=\"noopener noreferrer\">Aardwolf Birthday Area</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AardwolfBirthdayArea\" target=\"_blank\" rel=\"noopener noreferrer\">Aardwolf Birthday Area</a><br><a href=\"https://aardwolfboot.com/map/Birthday_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Birthday_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "zoo":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AardwolfZoologicalPark\" target=\"_blank\" rel=\"noopener noreferrer\">Aardwolf Zoological Park</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AardwolfZoologicalPark\" target=\"_blank\" rel=\"noopener noreferrer\">Aardwolf Zoological Park</a><br><a href=\"https://aardwolfboot.com/map/Zoo_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Zoo_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Zoo_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Zoo_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "badtrip":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ABadTrip\" target=\"_blank\" rel=\"noopener noreferrer\">A Bad Trip</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ABadTrip\" target=\"_blank\" rel=\"noopener noreferrer\">A Bad Trip</a><br><a href=\"https://aardwolfboot.com/map/Badtrip_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "sendhian":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AdventuresInSendhia\" target=\"_blank\" rel=\"noopener noreferrer\">Adventures in Sendhia</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AdventuresInSendhia\" target=\"_blank\" rel=\"noopener noreferrer\">Adventures in Sendhia</a><br><a href=\"https://aardwolfboot.com/map/Sendhia_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Sendhia_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "cineko":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AerialCityOfCineko\" target=\"_blank\" rel=\"noopener noreferrer\">Aerial City of Cineko</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AerialCityOfCineko\" target=\"_blank\" rel=\"noopener noreferrer\">Aerial City of Cineko</a><br><a href=\"https://aardwolfboot.com/map/Cineko_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Cineko_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Cineko_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "geniewish":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AGeniesLastWish\" target=\"_blank\" rel=\"noopener noreferrer\">A Genie's Last Wish</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AGeniesLastWish\" target=\"_blank\" rel=\"noopener noreferrer\">A Genie's Last Wish</a>"
+    },
+    "alagh":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AlaghTheBloodLands\" target=\"_blank\" rel=\"noopener noreferrer\">Alagh, the Blood Lands</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AlaghTheBloodLands\" target=\"_blank\" rel=\"noopener noreferrer\">Alagh, the Blood Lands</a>"
+    },
+    "fayke":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AllInAFaykeDay\" target=\"_blank\" rel=\"noopener noreferrer\">All in a Fayke Day</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AllInAFaykeDay\" target=\"_blank\" rel=\"noopener noreferrer\">All in a Fayke Day</a><br><a href=\"https://aardwolfboot.com/map/Fayke_Emerald.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Fayke_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Fayke_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Fayke_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "hodgepodge":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AMagicalHodgepodge\" target=\"_blank\" rel=\"noopener noreferrer\">A Magical Hodgepodge</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AMagicalHodgepodge\" target=\"_blank\" rel=\"noopener noreferrer\">A Magical Hodgepodge</a><br><a href=\"https://aardwolfboot.com/map/Hodgepodge_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Hodgepodge_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Hodgepodge_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Hodgepodge_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "greece":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AncientGreece\" target=\"_blank\" rel=\"noopener noreferrer\">Ancient Greece</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AncientGreece\" target=\"_blank\" rel=\"noopener noreferrer\">Ancient Greece</a><br><a href=\"https://aardwolfboot.com/map/Greece_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Greece_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Greece_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Greece_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "oceanpark":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AndolorsOceanAdventurePark\" target=\"_blank\" rel=\"noopener noreferrer\">Andolor's Ocean Adventure Park</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AndolorsOceanAdventurePark\" target=\"_blank\" rel=\"noopener noreferrer\">Andolor's Ocean Adventure Park</a><br><a href=\"https://aardwolfboot.com/map/Oceanpark_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a>"
+    },
+    "annwn":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Annwn\" target=\"_blank\" rel=\"noopener noreferrer\">Annwn</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Annwn\" target=\"_blank\" rel=\"noopener noreferrer\">Annwn</a><br><a href=\"https://aardwolfboot.com/map/Annwn_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a><br><a href=\"https://aardwolfboot.com/map/Annwn_Seekers_VI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">(PDF)</a>"
+    },
+    "anthrox":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Anthrox\" target=\"_blank\" rel=\"noopener noreferrer\">Anthrox</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Anthrox\" target=\"_blank\" rel=\"noopener noreferrer\">Anthrox</a><br><a href=\"https://aardwolfboot.com/map/Anthrox_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Anthrox_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Anthrox_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Anthrox_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "village":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/APeacefulGiantVillage\" target=\"_blank\" rel=\"noopener noreferrer\">A Peaceful Giant Village</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/APeacefulGiantVillage\" target=\"_blank\" rel=\"noopener noreferrer\">A Peaceful Giant Village</a><br><a href=\"https://aardwolfboot.com/map/PGV_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/PGV_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/PGV_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/PGV_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "arisian":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ArisianRealm\" target=\"_blank\" rel=\"noopener noreferrer\">Arisian Realm</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ArisianRealm\" target=\"_blank\" rel=\"noopener noreferrer\">Arisian Realm</a><br><a href=\"https://aardwolfboot.com/map/Arisian_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Arisian_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Arisian_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Arisian_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/arisian_seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "mayhem":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ArtificersMayhem\" target=\"_blank\" rel=\"noopener noreferrer\">Artificer's Mayhem</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ArtificersMayhem\" target=\"_blank\" rel=\"noopener noreferrer\">Artificer's Mayhem</a><br><a href=\"https://aardwolfboot.com/map/Mayhem_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Mayhem_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Mayhem_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "melody":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ArtOfMelody\" target=\"_blank\" rel=\"noopener noreferrer\">Art of Melody</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ArtOfMelody\" target=\"_blank\" rel=\"noopener noreferrer\">Art of Melody</a><br><a href=\"https://aardwolfboot.com/map/Melody_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Melody_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Melody_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Melody_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Melody_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "nursing":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AscensionBluffNursingHome\" target=\"_blank\" rel=\"noopener noreferrer\">Ascension Bluff Nursing Home</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AscensionBluffNursingHome\" target=\"_blank\" rel=\"noopener noreferrer\">Ascension Bluff Nursing Home</a><br><a href=\"https://aardwolfboot.com/map/Nursing_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Nursing_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Nursing_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a><br><a href=\"https://aardwolfboot.com/map/Nursing_Seekers_VI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">(PDF)</a>"
+    },
+    "atlantis":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Atlantis\" target=\"_blank\" rel=\"noopener noreferrer\">Atlantis</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Atlantis\" target=\"_blank\" rel=\"noopener noreferrer\">Atlantis</a><br><a href=\"https://aardwolfboot.com/map/Atlantis_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Atlantis_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Atlantis_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "avian":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AvianKingdom\" target=\"_blank\" rel=\"noopener noreferrer\">Avian Kingdom</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/AvianKingdom\" target=\"_blank\" rel=\"noopener noreferrer\">Avian Kingdom</a><br><a href=\"https://aardwolfboot.com/map/Avian_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Avian_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "adaldar":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/BattlefieldsOfAdaldar\" target=\"_blank\" rel=\"noopener noreferrer\">Battlefields of Adaldar</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/BattlefieldsOfAdaldar\" target=\"_blank\" rel=\"noopener noreferrer\">Battlefields of Adaldar</a><br><a href=\"https://aardwolfboot.com/map/Adaldar_Anaristos.png\" target=\"_blank\" rel=\"noopener noreferrer\">Anaristos</a><br><a href=\"https://aardwolfboot.com/map/Adaldar_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Adaldar_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "lagoon":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/BlackLagoon\" target=\"_blank\" rel=\"noopener noreferrer\">Black Lagoon</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/BlackLagoon\" target=\"_blank\" rel=\"noopener noreferrer\">Black Lagoon</a><br><a href=\"https://aardwolfboot.com/map/Blacklagoon_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Blacklagoon_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "blackrose":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/BlackRose\" target=\"_blank\" rel=\"noopener noreferrer\">Black Rose</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/BlackRose\" target=\"_blank\" rel=\"noopener noreferrer\">Black Rose</a><br><a href=\"https://aardwolfboot.com/map/Blackrose_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Blackrose_Masaki.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Masaki</a>"
+    },
+    "glimmerdim":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/BrightseaAndGlimmerdim\" target=\"_blank\" rel=\"noopener noreferrer\">Brightsea and Glimmerdim</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/BrightseaAndGlimmerdim\" target=\"_blank\" rel=\"noopener noreferrer\">Brightsea and Glimmerdim</a><br><a href=\"https://aardwolfboot.com/map/Glimmerdim_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Brightsea_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Brightsea_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "canyon":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/CanyonMemorialHospital\" target=\"_blank\" rel=\"noopener noreferrer\">Canyon Memorial Hospital</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/CanyonMemorialHospital\" target=\"_blank\" rel=\"noopener noreferrer\">Canyon Memorial Hospital</a><br><a href=\"https://aardwolfboot.com/map/Hospital_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Hospital_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Hospital_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "vlad":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/CastleVlad-Shamir\" target=\"_blank\" rel=\"noopener noreferrer\">Castle Vlad-Shamir</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/CastleVlad-Shamir\" target=\"_blank\" rel=\"noopener noreferrer\">Castle Vlad-Shamir</a><br><a href=\"https://aardwolfboot.com/map/Vlad_Chaos.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Vlad_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Vlad_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Vlad_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Vlad_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "challenge":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ChallengeArea\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge Area</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ChallengeArea\" target=\"_blank\" rel=\"noopener noreferrer\">Challenge Area</a>"
+    },
+    "lab":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ChaprenulasLaboratory\" target=\"_blank\" rel=\"noopener noreferrer\">Chaprenula's Laboratory</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ChaprenulasLaboratory\" target=\"_blank\" rel=\"noopener noreferrer\">Chaprenula's Laboratory</a><br><a href=\"https://aardwolfboot.com/map/Chaprenula_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Chaprenula_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Chaprenula_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Chaprenula_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "childsplay":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ChildsPlay\" target=\"_blank\" rel=\"noopener noreferrer\">Child's Play</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ChildsPlay\" target=\"_blank\" rel=\"noopener noreferrer\">Child's Play</a><br><a href=\"https://aardwolfboot.com/map/Childsplay_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Childsplay_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Childsplay_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Childsplay_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Childsplay_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "xmas":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ChristmasVacation\" target=\"_blank\" rel=\"noopener noreferrer\">Christmas Vacation</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ChristmasVacation\" target=\"_blank\" rel=\"noopener noreferrer\">Christmas Vacation</a><br><a href=\"https://aardwolfboot.com/map/Christmas_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Christmas_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Christmas_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Christmas_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "gnomalin":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/CloudCityOfGnomalin\" target=\"_blank\" rel=\"noopener noreferrer\">Cloud City of Gnomalin</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/CloudCityOfGnomalin\" target=\"_blank\" rel=\"noopener noreferrer\">Cloud City of Gnomalin</a><br><a href=\"https://aardwolfboot.com/map/Gnomalin_Emerald.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Gnomalin_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Gnomalin_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Gnomalin_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "cradle":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Cradlebrook\" target=\"_blank\" rel=\"noopener noreferrer\">Cradlebrook</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Cradlebrook\" target=\"_blank\" rel=\"noopener noreferrer\">Cradlebrook</a><br><a href=\"https://aardwolfboot.com/map/Cradlebrook_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Cradlebrook_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Cradlebrook_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Cradlebrook_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "crynn":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/CrynnsChurch\" target=\"_blank\" rel=\"noopener noreferrer\">Crynn's Church</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/CrynnsChurch\" target=\"_blank\" rel=\"noopener noreferrer\">Crynn's Church</a><br><a href=\"https://aardwolfboot.com/map/Crynn_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a>"
+    },
+    "stronghold":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DarkElfStronghold\" target=\"_blank\" rel=\"noopener noreferrer\">Dark Elf Stronghold</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DarkElfStronghold\" target=\"_blank\" rel=\"noopener noreferrer\">Dark Elf Stronghold</a><br><a href=\"https://aardwolfboot.com/map/Stronghold_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Stronghold_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Stronghold_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "manor":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DeathsManor\" target=\"_blank\" rel=\"noopener noreferrer\">Death's Manor</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DeathsManor\" target=\"_blank\" rel=\"noopener noreferrer\">Death's Manor</a><br><a href=\"https://aardwolfboot.com/map/Deathsmanor_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Deathsmanor_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Deathsmanor_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Deathmanor_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "deathtrap":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DeathtrapDungeon\" target=\"_blank\" rel=\"noopener noreferrer\">Deathtrap Dungeon</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DeathtrapDungeon\" target=\"_blank\" rel=\"noopener noreferrer\">Deathtrap Dungeon</a><br><a href=\"https://aardwolfboot.com/map/Deathtrap_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Deathtrap_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Deathtrap_Seekers.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers (PDF)</a>"
+    },
+    "thieves":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DenOfThieves\" target=\"_blank\" rel=\"noopener noreferrer\">Den of Thieves</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DenOfThieves\" target=\"_blank\" rel=\"noopener noreferrer\">Den of Thieves</a><br><a href=\"https://aardwolfboot.com/map/Thieves_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Thieves_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Thieves_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Thieves_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "hell":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DescentToHell\" target=\"_blank\" rel=\"noopener noreferrer\">Descent to Hell</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DescentToHell\" target=\"_blank\" rel=\"noopener noreferrer\">Descent to Hell</a><br><a href=\"https://aardwolfboot.com/map/Descent_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Descent_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Descent_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Descent_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Descent_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "ddoom":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DesertDoom\" target=\"_blank\" rel=\"noopener noreferrer\">Desert Doom</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DesertDoom\" target=\"_blank\" rel=\"noopener noreferrer\">Desert Doom</a><br><a href=\"https://aardwolfboot.com/map/Desertdoom_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Desertdoom_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Desertdoom_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Desertdoom_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Desertdoom_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "dhalgora":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DhalGoraOutlands\" target=\"_blank\" rel=\"noopener noreferrer\">Dhal'Gora Outlands</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DhalGoraOutlands\" target=\"_blank\" rel=\"noopener noreferrer\">Dhal'Gora Outlands</a><br><a href=\"https://aardwolfboot.com/map/Outlands_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Outlands_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "dsr":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DiamondSoulRevelation\" target=\"_blank\" rel=\"noopener noreferrer\">Diamond Soul Revelation</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DiamondSoulRevelation\" target=\"_blank\" rel=\"noopener noreferrer\">Diamond Soul Revelation</a><br><a href=\"https://aardwolfboot.com/map/DSR_Updated.png\" target=\"_blank\" rel=\"noopener noreferrer\">Braun</a><br><a href=\"https://aardwolfboot.com/map/DSR_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/DSR_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/DSR_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "dortmund":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Dortmund\" target=\"_blank\" rel=\"noopener noreferrer\">Dortmund</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Dortmund\" target=\"_blank\" rel=\"noopener noreferrer\">Dortmund</a><br><a href=\"https://aardwolfboot.com/map/Dortmund_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Dortmund_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Dortmund_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Dortmund_Tanelorn.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Tanelorn</a>"
+    },
+    "dread":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DreadTower\" target=\"_blank\" rel=\"noopener noreferrer\">Dread Tower</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DreadTower\" target=\"_blank\" rel=\"noopener noreferrer\">Dread Tower</a><br><a href=\"https://aardwolfboot.com/map/Dreadtower_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Dreadtower_Masaki.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Masaki</a><br><a href=\"https://aardwolfboot.com/map/Dread_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "duskvalley":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DuskValley\" target=\"_blank\" rel=\"noopener noreferrer\">Dusk Valley</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/DuskValley\" target=\"_blank\" rel=\"noopener noreferrer\">Dusk Valley</a><br><a href=\"https://aardwolfboot.com/map/Duskvalley_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Duskvalley_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "earthplane":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/EarthPlane4\" target=\"_blank\" rel=\"noopener noreferrer\">Earth Plane 4</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/EarthPlane4\" target=\"_blank\" rel=\"noopener noreferrer\">Earth Plane 4</a><br><a href=\"https://aardwolfboot.com/map/Earthplane_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Earthplane_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Earthplane_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "elemental":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ElementalChaos\" target=\"_blank\" rel=\"noopener noreferrer\">Elemental Chaos</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ElementalChaos\" target=\"_blank\" rel=\"noopener noreferrer\">Elemental Chaos</a><br><a href=\"https://aardwolfboot.com/map/Elemental_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Elemental_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Elemental_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Elemental_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "empyrean":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/EmpyreanStreetsOfDownfall\" target=\"_blank\" rel=\"noopener noreferrer\">Empyrean, Streets Of Downfall</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/EmpyreanStreetsOfDownfall\" target=\"_blank\" rel=\"noopener noreferrer\">Empyrean, Streets Of Downfall</a><br><a href=\"https://aardwolfboot.com/map/Empyrean_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "hades":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/EntranceToHades\" target=\"_blank\" rel=\"noopener noreferrer\">Entrance to Hades</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/EntranceToHades\" target=\"_blank\" rel=\"noopener noreferrer\">Entrance to Hades</a><br><a href=\"https://aardwolfboot.com/map/Hades_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "autumn":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/EternalAutumn\" target=\"_blank\" rel=\"noopener noreferrer\">Eternal Autumn</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/EternalAutumn\" target=\"_blank\" rel=\"noopener noreferrer\">Eternal Autumn</a><br><a href=\"https://aardwolfboot.com/map/Autumn_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Autumn_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "ft1":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/FaerieTales\" target=\"_blank\" rel=\"noopener noreferrer\">Faerie Tales</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/FaerieTales\" target=\"_blank\" rel=\"noopener noreferrer\">Faerie Tales</a><br><a href=\"https://aardwolfboot.com/map/Faerie_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Faerie_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Faerie_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Faerie_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "ftii":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/FaerieTalesII\" target=\"_blank\" rel=\"noopener noreferrer\">Faerie Tales II</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/FaerieTalesII\" target=\"_blank\" rel=\"noopener noreferrer\">Faerie Tales II</a><br><a href=\"https://aardwolfboot.com/map/Faerie2_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Faerie2_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Faerie2_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Faerie2_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "fantasy":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/FantasyFields\" target=\"_blank\" rel=\"noopener noreferrer\">Fantasy Fields</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/FantasyFields\" target=\"_blank\" rel=\"noopener noreferrer\">Fantasy Fields</a><br><a href=\"https://aardwolfboot.com/map/Fantasy_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Fantasy_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Fantasy_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Fantasy_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "ascent":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/FirstAscent\" target=\"_blank\" rel=\"noopener noreferrer\">First Ascent</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/FirstAscent\" target=\"_blank\" rel=\"noopener noreferrer\">First Ascent</a><br><a href=\"https://aardwolfboot.com/map/Firstascent_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Firstascent_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Ascent_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "promises":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/FoolishPromises\" target=\"_blank\" rel=\"noopener noreferrer\">Foolish Promises</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/FoolishPromises\" target=\"_blank\" rel=\"noopener noreferrer\">Foolish Promises</a><br><a href=\"https://aardwolfboot.com/map/Foolishpromises_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Foolish_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "terramire":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/FortTerramire\" target=\"_blank\" rel=\"noopener noreferrer\">Fort Terramire</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/FortTerramire\" target=\"_blank\" rel=\"noopener noreferrer\">Fort Terramire</a><br><a href=\"https://aardwolfboot.com/map/Terramire_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Terramire_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Terramire_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Terramire_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Terramire_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "gallows":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/GallowsHill\" target=\"_blank\" rel=\"noopener noreferrer\">Gallows Hill</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/GallowsHill\" target=\"_blank\" rel=\"noopener noreferrer\">Gallows Hill</a><br><a href=\"https://aardwolfboot.com/map/Gallows_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Gallows_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Gallows_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Gallows_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "gelidus":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Gelidus\" target=\"_blank\" rel=\"noopener noreferrer\">Gelidus</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Gelidus\" target=\"_blank\" rel=\"noopener noreferrer\">Gelidus</a>"
+    },
+    "petstore":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/GiantsPetStore\" target=\"_blank\" rel=\"noopener noreferrer\">Giant's Pet Store</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/GiantsPetStore\" target=\"_blank\" rel=\"noopener noreferrer\">Giant's Pet Store</a><br><a href=\"https://aardwolfboot.com/map/Petstore_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Petstore_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Petstore_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Petstore_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Petstore_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "gilda":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/GildaAndTheDragon\" target=\"_blank\" rel=\"noopener noreferrer\">Gilda And The Dragon</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/GildaAndTheDragon\" target=\"_blank\" rel=\"noopener noreferrer\">Gilda And The Dragon</a><br><a href=\"https://aardwolfboot.com/map/Gilda_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Gilda_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Gilda_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Gilda_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "quarry":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/GnollsQuarry\" target=\"_blank\" rel=\"noopener noreferrer\">Gnoll's Quarry</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/GnollsQuarry\" target=\"_blank\" rel=\"noopener noreferrer\">Gnoll's Quarry</a><br><a href=\"https://aardwolfboot.com/map/Quarry_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Quarry_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "goldrush":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/GoldRush\" target=\"_blank\" rel=\"noopener noreferrer\">Gold Rush</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/GoldRush\" target=\"_blank\" rel=\"noopener noreferrer\">Gold Rush</a><br><a href=\"https://aardwolfboot.com/map/Goldrush_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Goldrush_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Goldrush_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Goldrush_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "spyreknow":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/GuardiansSpyreOfKnowledge\" target=\"_blank\" rel=\"noopener noreferrer\">Guardian's Spyre of Knowledge</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/GuardiansSpyreOfKnowledge\" target=\"_blank\" rel=\"noopener noreferrer\">Guardian's Spyre of Knowledge</a><br><a href=\"https://aardwolfboot.com/map/Spyre_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Spyre_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "caravan":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/GypsyCaravan\" target=\"_blank\" rel=\"noopener noreferrer\">Gypsy Caravan</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/GypsyCaravan\" target=\"_blank\" rel=\"noopener noreferrer\">Gypsy Caravan</a><br><a href=\"https://aardwolfboot.com/map/Gypsy_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Gypsy_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "damned":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/HallsOfTheDamned\" target=\"_blank\" rel=\"noopener noreferrer\">Halls of the Damned</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/HallsOfTheDamned\" target=\"_blank\" rel=\"noopener noreferrer\">Halls of the Damned</a><br><a href=\"https://aardwolfboot.com/map/Damned_Amazon.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Amazon</a><br><a href=\"https://aardwolfboot.com/map/Damned_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "hatchling":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/HatchlingAerie\" target=\"_blank\" rel=\"noopener noreferrer\">Hatchling Aerie</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/HatchlingAerie\" target=\"_blank\" rel=\"noopener noreferrer\">Hatchling Aerie</a><br><a href=\"https://aardwolfboot.com/map/Aerie_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Aerie_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Aerie_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "hedge":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/HedgehogsParadise\" target=\"_blank\" rel=\"noopener noreferrer\">Hedgehogs' Paradise</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/HedgehogsParadise\" target=\"_blank\" rel=\"noopener noreferrer\">Hedgehogs' Paradise</a><br><a href=\"https://aardwolfboot.com/map/Hedgehogs_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Hedgehogs_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "helegear":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/HelegearSea\" target=\"_blank\" rel=\"noopener noreferrer\">Helegear Sea</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/HelegearSea\" target=\"_blank\" rel=\"noopener noreferrer\">Helegear Sea</a><br><a href=\"https://aardwolfboot.com/map/Helegear_Rathik.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Rathik</a><br><a href=\"https://aardwolfboot.com/map/Helegear_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a><br><a href=\"https://aardwolfboot.com/map/Helegear2_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers 2</a>"
+    },
+    "orlando":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/HotelOrlando\" target=\"_blank\" rel=\"noopener noreferrer\">Hotel Orlando</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/HotelOrlando\" target=\"_blank\" rel=\"noopener noreferrer\">Hotel Orlando</a><br><a href=\"https://aardwolfboot.com/map/Orlando_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Orlando_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Orlando_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Orlando_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Orlando_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "cards":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/HouseOfCards\" target=\"_blank\" rel=\"noopener noreferrer\">House of Cards</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/HouseOfCards\" target=\"_blank\" rel=\"noopener noreferrer\">House of Cards</a><br><a href=\"https://aardwolfboot.com/map/Cards_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Cards_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Cards_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "icefall":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Icefall\" target=\"_blank\" rel=\"noopener noreferrer\">Icefall</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Icefall\" target=\"_blank\" rel=\"noopener noreferrer\">Icefall</a>"
+    },
+    "imagi":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ImagisNation\" target=\"_blank\" rel=\"noopener noreferrer\">Imagi's Nation</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ImagisNation\" target=\"_blank\" rel=\"noopener noreferrer\">Imagi's Nation</a><br><a href=\"https://aardwolfboot.com/map/Imagi_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Imagi_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "imperial":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ImperialNation\" target=\"_blank\" rel=\"noopener noreferrer\">Imperial Nation</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ImperialNation\" target=\"_blank\" rel=\"noopener noreferrer\">Imperial Nation</a><br><a href=\"https://aardwolfboot.com/map/Imperialnation_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Imperialnation_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Imperialnation_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "insan":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Insanitaria\" target=\"_blank\" rel=\"noopener noreferrer\">Insanitaria</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Insanitaria\" target=\"_blank\" rel=\"noopener noreferrer\">Insanitaria</a><br><a href=\"https://aardwolfboot.com/map/Insanitaria_Emerald.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Insanitaria_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Insanitaria_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Insanitaria_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "longnight":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/IntoTheLongNight\" target=\"_blank\" rel=\"noopener noreferrer\">Into the Long Night</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/IntoTheLongNight\" target=\"_blank\" rel=\"noopener noreferrer\">Into the Long Night</a><br><a href=\"https://aardwolfboot.com/map/Longnight_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Longnight_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Longnight_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Longnight_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "times":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/IntriguesOfTimesPast\" target=\"_blank\" rel=\"noopener noreferrer\">Intrigues of Times Past</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/IntriguesOfTimesPast\" target=\"_blank\" rel=\"noopener noreferrer\">Intrigues of Times Past</a><br><a href=\"https://aardwolfboot.com/map/Intrigues_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Intrigues_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "losttime":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/IslandOfLostTime\" target=\"_blank\" rel=\"noopener noreferrer\">Island of Lost Time</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/IslandOfLostTime\" target=\"_blank\" rel=\"noopener noreferrer\">Island of Lost Time</a><br><a href=\"https://aardwolfboot.com/map/Losttime_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Losttime_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Losttime_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Losttime_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "jenny":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/JennysTavern\" target=\"_blank\" rel=\"noopener noreferrer\">Jenny's Tavern</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/JennysTavern\" target=\"_blank\" rel=\"noopener noreferrer\">Jenny's Tavern</a><br><a href=\"https://aardwolfboot.com/map/Jenny_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Jenny_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Jenny_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Jenny_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "jotun":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Jotunheim\" target=\"_blank\" rel=\"noopener noreferrer\">Jotunheim</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Jotunheim\" target=\"_blank\" rel=\"noopener noreferrer\">Jotunheim</a><br><a href=\"https://aardwolfboot.com/map/Jotunheim_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Jotunheim_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Jotunheim_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "verume":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/JunglesOfVerume\" target=\"_blank\" rel=\"noopener noreferrer\">Jungles of Verume</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/JunglesOfVerume\" target=\"_blank\" rel=\"noopener noreferrer\">Jungles of Verume</a><br><a href=\"https://aardwolfboot.com/map/Verume_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Verume_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Verume_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Verume_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Verume_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "kobaloi":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/KeepOfTheKobaloi\" target=\"_blank\" rel=\"noopener noreferrer\">Keep of the Kobaloi</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/KeepOfTheKobaloi\" target=\"_blank\" rel=\"noopener noreferrer\">Keep of the Kobaloi</a><br><a href=\"https://aardwolfboot.com/map/Kobaloi_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Kobaloi_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "kerofk":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Kerofk\" target=\"_blank\" rel=\"noopener noreferrer\">Kerofk</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Kerofk\" target=\"_blank\" rel=\"noopener noreferrer\">Kerofk</a><br><a href=\"https://aardwolfboot.com/map/Kerofk_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Kerofk_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Kerofk_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "ketu":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/KetuUplands\" target=\"_blank\" rel=\"noopener noreferrer\">Ketu Uplands</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/KetuUplands\" target=\"_blank\" rel=\"noopener noreferrer\">Ketu Uplands</a><br><a href=\"https://aardwolfboot.com/map/Ketu_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Ketu_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Ketu_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Ketu_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "cove":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/KiksaadiCove\" target=\"_blank\" rel=\"noopener noreferrer\">Kiksaadi Cove</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/KiksaadiCove\" target=\"_blank\" rel=\"noopener noreferrer\">Kiksaadi Cove</a><br><a href=\"https://aardwolfboot.com/map/Kiksaadi_Seekers.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers (PDF)</a>"
+    },
+    "farm":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/KimrsFarm\" target=\"_blank\" rel=\"noopener noreferrer\">Kimr's Farm</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/KimrsFarm\" target=\"_blank\" rel=\"noopener noreferrer\">Kimr's Farm</a><br><a href=\"https://aardwolfboot.com/map/Kimr_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Kimr_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "ahner":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/KingdomOfAhner\" target=\"_blank\" rel=\"noopener noreferrer\">Kingdom of Ahner</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/KingdomOfAhner\" target=\"_blank\" rel=\"noopener noreferrer\">Kingdom of Ahner</a><br><a href=\"https://aardwolfboot.com/map/Ahner_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Ahner_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Ahner_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Ahner_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "kingsholm":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Kingsholm\" target=\"_blank\" rel=\"noopener noreferrer\">Kingsholm</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Kingsholm\" target=\"_blank\" rel=\"noopener noreferrer\">Kingsholm</a><br><a href=\"https://aardwolfboot.com/map/Kingsholm_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Kingsholm_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Kingsholm_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "siege":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/KoboldSiegeCamp\" target=\"_blank\" rel=\"noopener noreferrer\">Kobold Siege Camp</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/KoboldSiegeCamp\" target=\"_blank\" rel=\"noopener noreferrer\">Kobold Siege Camp</a><br><a href=\"https://aardwolfboot.com/map/KSC_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "kultiras":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/KulTiras\" target=\"_blank\" rel=\"noopener noreferrer\">Kul Tiras</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/KulTiras\" target=\"_blank\" rel=\"noopener noreferrer\">Kul Tiras</a><br><a href=\"https://aardwolfboot.com/map/Kultiras_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Kultiras_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Kultiras_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Kultiras_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "legend":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/LandOfLegend\" target=\"_blank\" rel=\"noopener noreferrer\">Land of Legend</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/LandOfLegend\" target=\"_blank\" rel=\"noopener noreferrer\">Land of Legend</a><br><a href=\"https://aardwolfboot.com/map/Legend_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Legend_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Legend_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Legend_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "livingmine":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/LivingMinesOfDakTai\" target=\"_blank\" rel=\"noopener noreferrer\">Living Mines of Dak'Tai</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/LivingMinesOfDakTai\" target=\"_blank\" rel=\"noopener noreferrer\">Living Mines of Dak'Tai</a><br><a href=\"https://aardwolfboot.com/map/Livingmines_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Livingmines_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "lowlands":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/LowlandsParadise96\" target=\"_blank\" rel=\"noopener noreferrer\">Lowlands Paradise '96</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/LowlandsParadise96\" target=\"_blank\" rel=\"noopener noreferrer\">Lowlands Paradise '96</a><br><a href=\"https://aardwolfboot.com/map/Lowlands_Chaos.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Lowlands_Emerald.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Lowlands_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Lowlands_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Lowlands_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "maelstrom":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Maelstrom\" target=\"_blank\" rel=\"noopener noreferrer\">Maelstrom</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Maelstrom\" target=\"_blank\" rel=\"noopener noreferrer\">Maelstrom</a><br><a href=\"https://aardwolfboot.com/map/Maelstrom_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Maelstrom_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Maelstrom_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Maelstrom_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "masq":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/MasqueradeIsland\" target=\"_blank\" rel=\"noopener noreferrer\">Masquerade Island</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/MasqueradeIsland\" target=\"_blank\" rel=\"noopener noreferrer\">Masquerade Island</a><br><a href=\"https://aardwolfboot.com/map/Masquerade_Anaristos.png\" target=\"_blank\" rel=\"noopener noreferrer\">Anaristos</a><br><a href=\"https://aardwolfboot.com/map/Masquerade_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Masquerade_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "dunoir":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/MountDuNoir\" target=\"_blank\" rel=\"noopener noreferrer\">Mount duNoir</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/MountDuNoir\" target=\"_blank\" rel=\"noopener noreferrer\">Mount duNoir</a><br><a href=\"https://aardwolfboot.com/map/Dunoir_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Dunoir_Vesse.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Vesse</a>"
+    },
+    "mudwog":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/MudwogsSwamp\" target=\"_blank\" rel=\"noopener noreferrer\">Mudwog's Swamp</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/MudwogsSwamp\" target=\"_blank\" rel=\"noopener noreferrer\">Mudwog's Swamp</a><br><a href=\"https://aardwolfboot.com/map/Mudwog_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Mudwog_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "nanjiki":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/NanjikiRuins\" target=\"_blank\" rel=\"noopener noreferrer\">Nanjiki Ruins</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/NanjikiRuins\" target=\"_blank\" rel=\"noopener noreferrer\">Nanjiki Ruins</a><br><a href=\"https://aardwolfboot.com/map/Nanjiki_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Nanjiki_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Nanjiki_Seekers.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers (PDF)</a>"
+    },
+    "horizon":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/NebulousHorizon\" target=\"_blank\" rel=\"noopener noreferrer\">Nebulous Horizon</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/NebulousHorizon\" target=\"_blank\" rel=\"noopener noreferrer\">Nebulous Horizon</a><br><a href=\"https://aardwolfboot.com/map/Nebulous_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Nebulous_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "necro":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/NecromancersGuild\" target=\"_blank\" rel=\"noopener noreferrer\">Necromancers' Guild</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/NecromancersGuild\" target=\"_blank\" rel=\"noopener noreferrer\">Necromancers' Guild</a><br><a href=\"https://aardwolfboot.com/map/Necromancers_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Necromancer_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Necromancer_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Necromancer_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "nenukon":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/NenukonAndTheFarCountry\" target=\"_blank\" rel=\"noopener noreferrer\">Nenukon and the Far Country</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/NenukonAndTheFarCountry\" target=\"_blank\" rel=\"noopener noreferrer\">Nenukon and the Far Country</a><br><a href=\"https://aardwolfboot.com/map/Nenukon_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "newthalos":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/NewThalos\" target=\"_blank\" rel=\"noopener noreferrer\">New Thalos</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/NewThalos\" target=\"_blank\" rel=\"noopener noreferrer\">New Thalos</a><br><a href=\"https://aardwolfboot.com/map/Thalos_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Thalos_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Thalos_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Thalos_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "northstar":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Northstar\" target=\"_blank\" rel=\"noopener noreferrer\">Northstar</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Northstar\" target=\"_blank\" rel=\"noopener noreferrer\">Northstar</a><br><a href=\"https://aardwolfboot.com/map/Northstar_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Northstar_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Northstar_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Northstar_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "nottingham":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Nottingham\" target=\"_blank\" rel=\"noopener noreferrer\">Nottingham</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Nottingham\" target=\"_blank\" rel=\"noopener noreferrer\">Nottingham</a><br><a href=\"https://aardwolfboot.com/map/Nottingham_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Nottingham_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "carnivale":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/OldeWorldeCarnivale\" target=\"_blank\" rel=\"noopener noreferrer\">Olde Worlde Carnivale</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/OldeWorldeCarnivale\" target=\"_blank\" rel=\"noopener noreferrer\">Olde Worlde Carnivale</a><br><a href=\"https://aardwolfboot.com/map/Carnivale_Chaos.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Carnivale_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Carnivale_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "bazaar":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/OnyxBazaar\" target=\"_blank\" rel=\"noopener noreferrer\">Onyx Bazaar</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/OnyxBazaar\" target=\"_blank\" rel=\"noopener noreferrer\">Onyx Bazaar</a><br><a href=\"https://aardwolfboot.com/map/Bazaar_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Bazaar_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Bazaar_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Bazaar_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Onyx_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "oradrin":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/OradrinsChosen\" target=\"_blank\" rel=\"noopener noreferrer\">Oradrin's Chosen</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/OradrinsChosen\" target=\"_blank\" rel=\"noopener noreferrer\">Oradrin's Chosen</a><br><a href=\"https://aardwolfboot.com/map/Oradrin_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "paradise":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ParadiseLost\" target=\"_blank\" rel=\"noopener noreferrer\">Paradise Lost</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ParadiseLost\" target=\"_blank\" rel=\"noopener noreferrer\">Paradise Lost</a><br><a href=\"https://aardwolfboot.com/map/Paradiselost_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Paradiselost_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Paradiselost_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Paradiselost_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "nulan":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/PlainsOfNulanBoar\" target=\"_blank\" rel=\"noopener noreferrer\">Plains of Nulan'Boar</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/PlainsOfNulanBoar\" target=\"_blank\" rel=\"noopener noreferrer\">Plains of Nulan'Boar</a><br><a href=\"https://aardwolfboot.com/map/Nulanboar_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Nulanboar_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Nulanboar_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "pompeii":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Pompeii\" target=\"_blank\" rel=\"noopener noreferrer\">Pompeii</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Pompeii\" target=\"_blank\" rel=\"noopener noreferrer\">Pompeii</a><br><a href=\"https://aardwolfboot.com/map/Pompeii_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Pompeii_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Pompeii_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Pompeii_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "prosper":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ProsperIsland\" target=\"_blank\" rel=\"noopener noreferrer\">Prosper's Island</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ProsperIsland\" target=\"_blank\" rel=\"noopener noreferrer\">Prosper's Island</a><br><a href=\"https://aardwolfboot.com/map/Prosper_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Prosper_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "qong":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Qong\" target=\"_blank\" rel=\"noopener noreferrer\">Qong</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Qong\" target=\"_blank\" rel=\"noopener noreferrer\">Qong</a><br><a href=\"https://aardwolfboot.com/map/Qong_Alhena.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Alhena</a><br><a href=\"https://aardwolfboot.com/map/Qong_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "raga":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Raganatittu\" target=\"_blank\" rel=\"noopener noreferrer\">Raganatittu</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Raganatittu\" target=\"_blank\" rel=\"noopener noreferrer\">Raganatittu</a><br><a href=\"https://aardwolfboot.com/map/Raganatittu_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Raganatittu_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Raganatittu_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Raganatittu_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "deneria":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RealmOfDeneria\" target=\"_blank\" rel=\"noopener noreferrer\">Realm of Deneria</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RealmOfDeneria\" target=\"_blank\" rel=\"noopener noreferrer\">Realm of Deneria</a><br><a href=\"https://aardwolfboot.com/map/Deneria_Emerald.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Deneria_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Deneria_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Deneria_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "infamy":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RealmOfInfamy\" target=\"_blank\" rel=\"noopener noreferrer\">Realm of Infamy</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RealmOfInfamy\" target=\"_blank\" rel=\"noopener noreferrer\">Realm of Infamy</a><br><a href=\"https://aardwolfboot.com/map/Infamy_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "firebird":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RealmOfTheFirebird\" target=\"_blank\" rel=\"noopener noreferrer\">Realm of the Firebird</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RealmOfTheFirebird\" target=\"_blank\" rel=\"noopener noreferrer\">Realm of the Firebird</a><br><a href=\"https://aardwolfboot.com/map/Firebird_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Firebird_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "firenation":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RealmOfTheSacredFlame\" target=\"_blank\" rel=\"noopener noreferrer\">Realm of the Sacred Flame</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RealmOfTheSacredFlame\" target=\"_blank\" rel=\"noopener noreferrer\">Realm of the Sacred Flame</a><br><a href=\"https://aardwolfboot.com/map/Sacredflame_Chaos.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Sacredflame_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Sacredflame_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Sacredflame_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "zodiac":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RealmOfTheZodiac\" target=\"_blank\" rel=\"noopener noreferrer\">Realm of the Zodiac</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RealmOfTheZodiac\" target=\"_blank\" rel=\"noopener noreferrer\">Realm of the Zodiac</a><br><a href=\"https://aardwolfboot.com/map/zodiac_bootcamp.png\" target=\"_blank\" rel=\"noopener noreferrer\">Bootcamp - Mirein - Updated!</a><br><a href=\"https://aardwolfboot.com/map/Zodiac_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Zodiac_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Zodiac_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "rebellion":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RebellionOfTheNix\" target=\"_blank\" rel=\"noopener noreferrer\">Rebellion of the Nix</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RebellionOfTheNix\" target=\"_blank\" rel=\"noopener noreferrer\">Rebellion of the Nix</a><br><a href=\"https://aardwolfboot.com/map/Rebellion_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "tombs":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RelinquishedTombs\" target=\"_blank\" rel=\"noopener noreferrer\">Relinquished Tombs</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RelinquishedTombs\" target=\"_blank\" rel=\"noopener noreferrer\">Relinquished Tombs</a><br><a href=\"https://aardwolfboot.com/map/Relinquished_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "rosewood":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RosewoodCastle\" target=\"_blank\" rel=\"noopener noreferrer\">Rosewood Castle</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/RosewoodCastle\" target=\"_blank\" rel=\"noopener noreferrer\">Rosewood Castle</a><br><a href=\"https://aardwolfboot.com/map/Rosewood_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Rosewood_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Rosewood_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "sagewood":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SagewoodGrove\" target=\"_blank\" rel=\"noopener noreferrer\">Sagewood Grove</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SagewoodGrove\" target=\"_blank\" rel=\"noopener noreferrer\">Sagewood Grove</a><br><a href=\"https://aardwolfboot.com/map/Sagewood_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a><br><a href=\"https://aardwolfboot.com/map/Sagewood_Seekers_VI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">(PDF)</a>"
+    },
+    "sanctity":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SanctityOfEternalDamnation\" target=\"_blank\" rel=\"noopener noreferrer\">Sanctity of Eternal Damnation</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SanctityOfEternalDamnation\" target=\"_blank\" rel=\"noopener noreferrer\">Sanctity of Eternal Damnation</a><br><a href=\"https://aardwolfboot.com/map/Sanctity_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/sanctity_light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "seaking":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SeaKingsDominion\" target=\"_blank\" rel=\"noopener noreferrer\">Sea King's Dominion</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SeaKingsDominion\" target=\"_blank\" rel=\"noopener noreferrer\">Sea King's Dominion</a><br><a href=\"https://aardwolfboot.com/map/Seaking_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Seaking_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "sennarre":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SennarreLake\" target=\"_blank\" rel=\"noopener noreferrer\">Sen'narre Lake</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SennarreLake\" target=\"_blank\" rel=\"noopener noreferrer\">Sen'narre Lake</a><br><a href=\"https://aardwolfboot.com/map/Sennarre_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Sennarre_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Sennarre_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Sennarre_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "wonders":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SevenWonders\" target=\"_blank\" rel=\"noopener noreferrer\">Seven Wonders</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SevenWonders\" target=\"_blank\" rel=\"noopener noreferrer\">Seven Wonders</a><br><a href=\"https://aardwolfboot.com/map/Wonders_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Sevenwonders_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Wonders_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "cats":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SheilasCatSanctuary\" target=\"_blank\" rel=\"noopener noreferrer\">Sheila's Cat Sanctuary</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SheilasCatSanctuary\" target=\"_blank\" rel=\"noopener noreferrer\">Sheila's Cat Sanctuary</a><br><a href=\"https://aardwolfboot.com/map/Sheila_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Sheila_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "sandcastle":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ShoaramCastleInTheSand\" target=\"_blank\" rel=\"noopener noreferrer\">Sho'aram, Castle in the Sand</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ShoaramCastleInTheSand\" target=\"_blank\" rel=\"noopener noreferrer\">Sho'aram, Castle in the Sand</a><br><a href=\"https://aardwolfboot.com/map/Shoaram_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Shoaram_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Shoaram_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "sirens":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SirensOasisResort\" target=\"_blank\" rel=\"noopener noreferrer\">Siren's Oasis Resort</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SirensOasisResort\" target=\"_blank\" rel=\"noopener noreferrer\">Siren's Oasis Resort</a><br><a href=\"https://aardwolfboot.com/map/Oasis_Emerald.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Oasis_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Oasis_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Oasis_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "snuckles":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SnucklesVillage\" target=\"_blank\" rel=\"noopener noreferrer\">Snuckles Village</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SnucklesVillage\" target=\"_blank\" rel=\"noopener noreferrer\">Snuckles Village</a><br><a href=\"https://aardwolfboot.com/map/Snuckles_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Snuckles_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Snuckles_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Snuckles_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "storm":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/StormMountain\" target=\"_blank\" rel=\"noopener noreferrer\">Storm Mountain</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/StormMountain\" target=\"_blank\" rel=\"noopener noreferrer\">Storm Mountain</a><br><a href=\"https://aardwolfboot.com/map/Storm_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Storm_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Storm_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Storm_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "lemdagor":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/StormShipsOfLem-Dagor\" target=\"_blank\" rel=\"noopener noreferrer\">Storm Ships Of Lem-Dagor</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/StormShipsOfLem-Dagor\" target=\"_blank\" rel=\"noopener noreferrer\">Storm Ships Of Lem-Dagor</a><br><a href=\"https://aardwolfboot.com/map/Lemdagor_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "vale":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SunderedVale\" target=\"_blank\" rel=\"noopener noreferrer\">Sundered Vale</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SunderedVale\" target=\"_blank\" rel=\"noopener noreferrer\">Sundered Vale</a><br><a href=\"https://aardwolfboot.com/map/Sunderedvale_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Sunderedvale_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Sundered_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "hoard":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SwordbreakersHoard\" target=\"_blank\" rel=\"noopener noreferrer\">Swordbreaker's Hoard</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/SwordbreakersHoard\" target=\"_blank\" rel=\"noopener noreferrer\">Swordbreaker's Hoard</a><br><a href=\"https://aardwolfboot.com/map/Hoard_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Hoard_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Hoard_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "peninsula":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TairaydenPeninsula\" target=\"_blank\" rel=\"noopener noreferrer\">Tairayden Peninsula</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TairaydenPeninsula\" target=\"_blank\" rel=\"noopener noreferrer\">Tairayden Peninsula</a><br><a href=\"https://aardwolfboot.com/map/Tairayden_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Tairayden_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "laym":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TairhaLaym\" target=\"_blank\" rel=\"noopener noreferrer\">Tai'rha Laym</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TairhaLaym\" target=\"_blank\" rel=\"noopener noreferrer\">Tai'rha Laym</a><br><a href=\"https://aardwolfboot.com/map/Laym_Chaos.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Laym_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Laym_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Laym_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "takeda":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TakedasWarcamp\" target=\"_blank\" rel=\"noopener noreferrer\">Takeda's Warcamp</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TakedasWarcamp\" target=\"_blank\" rel=\"noopener noreferrer\">Takeda's Warcamp</a><br><a href=\"https://aardwolfboot.com/map/Takeda_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Takeda_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "tanra":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Tanravea\" target=\"_blank\" rel=\"noopener noreferrer\">Tanra'vea</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Tanravea\" target=\"_blank\" rel=\"noopener noreferrer\">Tanra'vea</a><br><a href=\"https://aardwolfboot.com/map/Tanravea_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Tanravea_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "conflict":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ThandeldsConflict\" target=\"_blank\" rel=\"noopener noreferrer\">Thandeld's Conflict</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ThandeldsConflict\" target=\"_blank\" rel=\"noopener noreferrer\">Thandeld's Conflict</a><br><a href=\"https://aardwolfboot.com/map/Thandeld_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Thandeld_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Thandeld_Light.png\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Thandeld_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "sahuagin":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheAbyssalCavernsOfSahuagin\" target=\"_blank\" rel=\"noopener noreferrer\">The Abyssal Caverns of Sahuagin</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheAbyssalCavernsOfSahuagin\" target=\"_blank\" rel=\"noopener noreferrer\">The Abyssal Caverns of Sahuagin</a><br><a href=\"https://aardwolfboot.com/map/Sahuagin_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Sahuagin_Seekers.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "amazon":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheAmazonNation\" target=\"_blank\" rel=\"noopener noreferrer\">The Amazon Nation</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheAmazonNation\" target=\"_blank\" rel=\"noopener noreferrer\">The Amazon Nation</a><br><a href=\"https://aardwolfboot.com/map/Amazon_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Amazon_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Amazon_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "amusement":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheAmusementPark\" target=\"_blank\" rel=\"noopener noreferrer\">The Amusement Park</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheAmusementPark\" target=\"_blank\" rel=\"noopener noreferrer\">The Amusement Park</a><br><a href=\"https://aardwolfboot.com/map/Amusement_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Amusement_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Amusement_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Amusement_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Amusement_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "entropy":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheArchipelagoOfEntropy\" target=\"_blank\" rel=\"noopener noreferrer\">The Archipelago of Entropy</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheArchipelagoOfEntropy\" target=\"_blank\" rel=\"noopener noreferrer\">The Archipelago of Entropy</a><br><a href=\"https://aardwolfboot.com/map/Entropy_Emerald.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Entropy_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Entropy_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Entropy_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "astral":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheAstralTravels\" target=\"_blank\" rel=\"noopener noreferrer\">The Astral Travels</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheAstralTravels\" target=\"_blank\" rel=\"noopener noreferrer\">The Astral Travels</a><br><a href=\"https://aardwolfboot.com/map/Astral_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Astral_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "academy":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheAylorianAcademy\" target=\"_blank\" rel=\"noopener noreferrer\">The Aylorian Academy</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheAylorianAcademy\" target=\"_blank\" rel=\"noopener noreferrer\">The Aylorian Academy</a><br><a href=\"https://aardwolfboot.com/map/Academy_Emerald.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Academy_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Academy_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Academy_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "andarin":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheBlightedTundraOfAndarin\" target=\"_blank\" rel=\"noopener noreferrer\">The Blighted Tundra of Andarin</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheBlightedTundraOfAndarin\" target=\"_blank\" rel=\"noopener noreferrer\">The Blighted Tundra of Andarin</a><br><a href=\"https://aardwolfboot.com/map/Andarin_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Andarin_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "raukora":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheBloodOpalOfRaukora\" target=\"_blank\" rel=\"noopener noreferrer\">The Blood Opal of Rauko'ra</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheBloodOpalOfRaukora\" target=\"_blank\" rel=\"noopener noreferrer\">The Blood Opal of Rauko'ra</a><br><a href=\"https://aardwolfboot.com/map/Bloodopal_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "sanctum":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheBloodSanctum\" target=\"_blank\" rel=\"noopener noreferrer\">The Blood Sanctum</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheBloodSanctum\" target=\"_blank\" rel=\"noopener noreferrer\">The Blood Sanctum</a><br><a href=\"https://aardwolfboot.com/map/Bloodsanctum_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "horath":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheBrokenHallsOfHorath\" target=\"_blank\" rel=\"noopener noreferrer\">The Broken Halls of Horath</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheBrokenHallsOfHorath\" target=\"_blank\" rel=\"noopener noreferrer\">The Broken Halls of Horath</a><br><a href=\"https://aardwolfboot.com/map/Horath_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "callhero":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCallOfHeroes\" target=\"_blank\" rel=\"noopener noreferrer\">The Call of Heroes</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCallOfHeroes\" target=\"_blank\" rel=\"noopener noreferrer\">The Call of Heroes</a><br><a href=\"https://aardwolfboot.com/map/Heroes_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Heroes_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Heroes_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Heroes_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "cataclysm":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCataclysm\" target=\"_blank\" rel=\"noopener noreferrer\">The Cataclysm</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCataclysm\" target=\"_blank\" rel=\"noopener noreferrer\">The Cataclysm</a><br><a href=\"https://aardwolfboot.com/map/Cataclysm_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Cataclysm_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Cataclysm_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "chasm":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheChasmAndTheCatacombs\" target=\"_blank\" rel=\"noopener noreferrer\">The Chasm and The Catacombs</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheChasmAndTheCatacombs\" target=\"_blank\" rel=\"noopener noreferrer\">The Chasm and The Catacombs</a><br><a href=\"https://aardwolfboot.com/map/Chasm_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Chasm_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Chasm_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Chasm_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "chessboard":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheChessboard\" target=\"_blank\" rel=\"noopener noreferrer\">The Chessboard</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheChessboard\" target=\"_blank\" rel=\"noopener noreferrer\">The Chessboard</a><br><a href=\"https://aardwolfboot.com/map/Chessboard_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Chessboard_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Chessboard_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Chessboard_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "mesolar":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheContinentOfMesolar\" target=\"_blank\" rel=\"noopener noreferrer\">The Continent of Mesolar</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheContinentOfMesolar\" target=\"_blank\" rel=\"noopener noreferrer\">The Continent of Mesolar</a>"
+    },
+    "coral":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCoralKingdom\" target=\"_blank\" rel=\"noopener noreferrer\">The Coral Kingdom</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCoralKingdom\" target=\"_blank\" rel=\"noopener noreferrer\">The Coral Kingdom</a><br><a href=\"https://aardwolfboot.com/map/Coralkingdom_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Coral_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Coral_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Coral_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "cougarian":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCougarianQueendom\" target=\"_blank\" rel=\"noopener noreferrer\">The Cougarian Queendom</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCougarianQueendom\" target=\"_blank\" rel=\"noopener noreferrer\">The Cougarian Queendom</a><br><a href=\"https://aardwolfboot.com/map/Cougarian_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Cougarian_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Cougarian_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Cougarian_Seekers.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers (PDF)</a>"
+    },
+    "wyrm":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCouncilOfTheWyrm\" target=\"_blank\" rel=\"noopener noreferrer\">The Council of the Wyrm</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCouncilOfTheWyrm\" target=\"_blank\" rel=\"noopener noreferrer\">The Council of the Wyrm</a><br><a href=\"https://aardwolfboot.com/map/Wyrm_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Wyrm2_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald 2</a><br><a href=\"https://aardwolfboot.com/map/Wyrm_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "mistridge":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCovenantOfMistridge\" target=\"_blank\" rel=\"noopener noreferrer\">The Covenant of Mistridge</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCovenantOfMistridge\" target=\"_blank\" rel=\"noopener noreferrer\">The Covenant of Mistridge</a><br><a href=\"https://aardwolfboot.com/map/Mistridge_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Mistridge_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "terra":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCracksOfTerra\" target=\"_blank\" rel=\"noopener noreferrer\">The Cracks of Terra</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCracksOfTerra\" target=\"_blank\" rel=\"noopener noreferrer\">The Cracks of Terra</a>"
+    },
+    "fens":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCurseOfTheMidnightFens\" target=\"_blank\" rel=\"noopener noreferrer\">The Curse of the Midnight Fens</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheCurseOfTheMidnightFens\" target=\"_blank\" rel=\"noopener noreferrer\">The Curse of the Midnight Fens</a><br><a href=\"https://aardwolfboot.com/map/Fens_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Fens_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "abend":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDarkContinentAbend\" target=\"_blank\" rel=\"noopener noreferrer\">The Dark Continent, Abend</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDarkContinentAbend\" target=\"_blank\" rel=\"noopener noreferrer\">The Dark Continent, Abend</a><br><a href=\"https://aardwolfboot.com/map/Abend_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Abend_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "darklight":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDarkLight\" target=\"_blank\" rel=\"noopener noreferrer\">The DarkLight</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDarkLight\" target=\"_blank\" rel=\"noopener noreferrer\">The DarkLight</a><br><a href=\"https://aardwolfboot.com/map/Darklight_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Darklight_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Darklight_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "darkside":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDarksideOfTheFracturedLands\" target=\"_blank\" rel=\"noopener noreferrer\">The Darkside of the Fractured Lands</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDarksideOfTheFracturedLands\" target=\"_blank\" rel=\"noopener noreferrer\">The Darkside of the Fractured Lands</a><br><a href=\"https://aardwolfboot.com/map/Darkside_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Darkside_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "zyian":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDarkTempleOfZyian\" target=\"_blank\" rel=\"noopener noreferrer\">The Dark Temple of Zyian</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDarkTempleOfZyian\" target=\"_blank\" rel=\"noopener noreferrer\">The Dark Temple of Zyian</a><br><a href=\"https://aardwolfboot.com/map/Zyian_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Zyian_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "deadlights":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDeadlights\" target=\"_blank\" rel=\"noopener noreferrer\">The Deadlights</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDeadlights\" target=\"_blank\" rel=\"noopener noreferrer\">The Deadlights</a><br><a href=\"https://aardwolfboot.com/map/Deadlights_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Deadlights_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "desert":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDesertPrison\" target=\"_blank\" rel=\"noopener noreferrer\">The Desert Prison</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDesertPrison\" target=\"_blank\" rel=\"noopener noreferrer\">The Desert Prison</a><br><a href=\"https://aardwolfboot.com/map/Desertprison_Emerald.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Desertprison_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "drageran":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDrageranEmpire\" target=\"_blank\" rel=\"noopener noreferrer\">The Drageran Empire</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDrageranEmpire\" target=\"_blank\" rel=\"noopener noreferrer\">The Drageran Empire</a><br><a href=\"https://aardwolfboot.com/map/Drageran_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Drageran_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Drageran_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "dundoom":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDungeonOfDoom\" target=\"_blank\" rel=\"noopener noreferrer\">The Dungeon of Doom</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheDungeonOfDoom\" target=\"_blank\" rel=\"noopener noreferrer\">The Dungeon of Doom</a><br><a href=\"https://aardwolfboot.com/map/Dungeondoom_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Dungeondoom_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Dungeondoom_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Doom_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "earthlords":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheEarthLords\" target=\"_blank\" rel=\"noopener noreferrer\">The Earth Lords</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheEarthLords\" target=\"_blank\" rel=\"noopener noreferrer\">The Earth Lords</a><br><a href=\"https://aardwolfboot.com/map/Earthlords_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "dynasty":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheEighteenthDynasty\" target=\"_blank\" rel=\"noopener noreferrer\">The Eighteenth Dynasty</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheEighteenthDynasty\" target=\"_blank\" rel=\"noopener noreferrer\">The Eighteenth Dynasty</a><br><a href=\"https://aardwolfboot.com/map/Dynasty_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Dynasty_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Dynasty_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Dynasty_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Dynasty_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Dynasty_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "empire":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheEmpireOfAiighialla\" target=\"_blank\" rel=\"noopener noreferrer\">The Empire of Aiighialla</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheEmpireOfAiighialla\" target=\"_blank\" rel=\"noopener noreferrer\">The Empire of Aiighialla</a><br><a href=\"https://aardwolfboot.com/map/Aiighialla_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Aiighialla_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "talsa":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheEmpireOfTalsa\" target=\"_blank\" rel=\"noopener noreferrer\">The Empire of Talsa</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheEmpireOfTalsa\" target=\"_blank\" rel=\"noopener noreferrer\">The Empire of Talsa</a><br><a href=\"https://aardwolfboot.com/map/Talsa_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Talsa_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Talsa_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Talsa_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "stone":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheFabledCityOfStone\" target=\"_blank\" rel=\"noopener noreferrer\">The Fabled City of Stone</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheFabledCityOfStone\" target=\"_blank\" rel=\"noopener noreferrer\">The Fabled City of Stone</a><br><a href=\"https://aardwolfboot.com/map/Stone_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Fabled_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Fabled_Seekers.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers (PDF)</a>"
+    },
+    "fireswamp":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheFireSwamp\" target=\"_blank\" rel=\"noopener noreferrer\">The Fire Swamp</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheFireSwamp\" target=\"_blank\" rel=\"noopener noreferrer\">The Fire Swamp</a><br><a href=\"https://aardwolfboot.com/map/Fireswamp_Emerald.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Fireswamp_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Fireswamp_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Fireswamp_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "citadel":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheFlyingCitadel\" target=\"_blank\" rel=\"noopener noreferrer\">The Flying Citadel</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheFlyingCitadel\" target=\"_blank\" rel=\"noopener noreferrer\">The Flying Citadel</a><br><a href=\"https://aardwolfboot.com/map/Flyingcitadel_Amazon.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Amazon</a><br><a href=\"https://aardwolfboot.com/map/Flying_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Flying_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "lidnesh":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheForestOfLiDnesh\" target=\"_blank\" rel=\"noopener noreferrer\">The Forest of Li'Dnesh</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheForestOfLiDnesh\" target=\"_blank\" rel=\"noopener noreferrer\">The Forest of Li'Dnesh</a><br><a href=\"https://aardwolfboot.com/map/Lidnesh_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Lidnesh_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Lidnesh_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Lidnesh_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "fractured":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheFracturedLands\" target=\"_blank\" rel=\"noopener noreferrer\">The Fractured Lands</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheFracturedLands\" target=\"_blank\" rel=\"noopener noreferrer\">The Fractured Lands</a><br><a href=\"https://aardwolfboot.com/map/Fractured_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Fractured_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Fractured_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "gathering":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGatheringHorde\" target=\"_blank\" rel=\"noopener noreferrer\">The Gathering Horde</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGatheringHorde\" target=\"_blank\" rel=\"noopener noreferrer\">The Gathering Horde</a><br><a href=\"https://aardwolfboot.com/map/Gathering_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "gauntlet":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGauntlet\" target=\"_blank\" rel=\"noopener noreferrer\">The Gauntlet</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGauntlet\" target=\"_blank\" rel=\"noopener noreferrer\">The Gauntlet</a><br><a href=\"https://aardwolfboot.com/map/Gauntlet_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Gauntlet_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Gauntlet_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Gauntlet_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "arena":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGladiatorsArena\" target=\"_blank\" rel=\"noopener noreferrer\">The Gladiator's Arena</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGladiatorsArena\" target=\"_blank\" rel=\"noopener noreferrer\">The Gladiator's Arena</a><br><a href=\"https://aardwolfboot.com/map/Gladiator_Emerald.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Gladiator_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "glamdursil":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGlamdursil\" target=\"_blank\" rel=\"noopener noreferrer\">The Glamdursil</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGlamdursil\" target=\"_blank\" rel=\"noopener noreferrer\">The Glamdursil</a><br><a href=\"https://aardwolfboot.com/map/Glamdursil_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "fortress":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGoblinFortress\" target=\"_blank\" rel=\"noopener noreferrer\">The Goblin Fortress</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGoblinFortress\" target=\"_blank\" rel=\"noopener noreferrer\">The Goblin Fortress</a><br><a href=\"https://aardwolfboot.com/map/Goblinfortress_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Goblinfortress_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Goblinfortress_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Goblinfortress_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "aylor":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGrandCityOfAylor\" target=\"_blank\" rel=\"noopener noreferrer\">The Grand City of Aylor</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGrandCityOfAylor\" target=\"_blank\" rel=\"noopener noreferrer\">The Grand City of Aylor</a><br><a href=\"https://aardwolfboot.com/map/Aylor_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Aylor_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Aylor_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Aylor_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "graveyard":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGraveyard\" target=\"_blank\" rel=\"noopener noreferrer\">The Graveyard</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGraveyard\" target=\"_blank\" rel=\"noopener noreferrer\">The Graveyard</a><br><a href=\"https://aardwolfboot.com/map/Graveyard_Chaos.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Graveyard_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Graveyard_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Graveyard_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Graveyard_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "knossos":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGreatCityOfKnossos\" target=\"_blank\" rel=\"noopener noreferrer\">The Great City of Knossos</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGreatCityOfKnossos\" target=\"_blank\" rel=\"noopener noreferrer\">The Great City of Knossos</a><br><a href=\"https://aardwolfboot.com/map/Knossos_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Knossos_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Knossos_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a><br><a href=\"https://aardwolfboot.com/map/Knossos_Seekers_VI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">(PDF)</a>"
+    },
+    "salt":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGreatSaltFlats\" target=\"_blank\" rel=\"noopener noreferrer\">The Great Salt Flats</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheGreatSaltFlats\" target=\"_blank\" rel=\"noopener noreferrer\">The Great Salt Flats</a><br><a href=\"https://aardwolfboot.com/map/Saltflats_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Saltflats_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Saltflats_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Saltflats_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "caldera":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheIcyCalderaOfMauldoon\" target=\"_blank\" rel=\"noopener noreferrer\">The Icy Caldera of Mauldoon</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheIcyCalderaOfMauldoon\" target=\"_blank\" rel=\"noopener noreferrer\">The Icy Caldera of Mauldoon</a><br><a href=\"https://aardwolfboot.com/map/Mauldoon_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Mauldoon_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Mauldoon_Seekers.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "reme":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheImperialCityOfReme\" target=\"_blank\" rel=\"noopener noreferrer\">The Imperial City of Reme</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheImperialCityOfReme\" target=\"_blank\" rel=\"noopener noreferrer\">The Imperial City of Reme</a><br><a href=\"https://aardwolfboot.com/map/Reme_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Reme_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Reme_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Reme_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "infest":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheInfestation\" target=\"_blank\" rel=\"noopener noreferrer\">The Infestation</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheInfestation\" target=\"_blank\" rel=\"noopener noreferrer\">The Infestation</a><br><a href=\"https://aardwolfboot.com/map/Infestation_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Infestation_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Infestation_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Infestation_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Infestation_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "kearvek":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheKeepOfKearvek\" target=\"_blank\" rel=\"noopener noreferrer\">The Keep of Kearvek</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheKeepOfKearvek\" target=\"_blank\" rel=\"noopener noreferrer\">The Keep of Kearvek</a><br><a href=\"https://aardwolfboot.com/map/Kearvek_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Kearvek_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Kearvek_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "fields":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheKillingFields\" target=\"_blank\" rel=\"noopener noreferrer\">The Killing Fields</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheKillingFields\" target=\"_blank\" rel=\"noopener noreferrer\">The Killing Fields</a><br><a href=\"https://aardwolfboot.com/map/Killingfields_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Killing_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "labyrinth":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheLabyrinth\" target=\"_blank\" rel=\"noopener noreferrer\">The Labyrinth</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheLabyrinth\" target=\"_blank\" rel=\"noopener noreferrer\">The Labyrinth</a><br><a href=\"https://aardwolfboot.com/map/Labyrinth_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Labyrinth_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Labyrinth_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/labyrinth_light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "landofoz":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheLandOfOz\" target=\"_blank\" rel=\"noopener noreferrer\">The Land of Oz</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheLandOfOz\" target=\"_blank\" rel=\"noopener noreferrer\">The Land of Oz</a><br><a href=\"https://aardwolfboot.com/map/Oz_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Oz_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Oz_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Oz_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "beer":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheLandOfTheBeerGoblins\" target=\"_blank\" rel=\"noopener noreferrer\">The Land of the Beer Goblins</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheLandOfTheBeerGoblins\" target=\"_blank\" rel=\"noopener noreferrer\">The Land of the Beer Goblins</a><br><a href=\"https://aardwolfboot.com/map/Beergoblins_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Beergoblins_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Beergoblins_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Beergoblins_Masaki.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Masaki</a>"
+    },
+    "lplanes":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheLowerPlanes\" target=\"_blank\" rel=\"noopener noreferrer\">The Lower Planes</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheLowerPlanes\" target=\"_blank\" rel=\"noopener noreferrer\">The Lower Planes</a><br><a href=\"https://aardwolfboot.com/map/Lowerplanes_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "agroth":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheMarshlandsOfAgroth\" target=\"_blank\" rel=\"noopener noreferrer\">The Marshlands of Agroth</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheMarshlandsOfAgroth\" target=\"_blank\" rel=\"noopener noreferrer\">The Marshlands of Agroth</a><br><a href=\"https://aardwolfboot.com/map/Agroth_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Agroth_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Agroth_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Agroth_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Agroth_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "yarr":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheMistyShoresOfYarr\" target=\"_blank\" rel=\"noopener noreferrer\">The Misty Shores of Yarr</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheMistyShoresOfYarr\" target=\"_blank\" rel=\"noopener noreferrer\">The Misty Shores of Yarr</a><br><a href=\"https://aardwolfboot.com/map/Yarr_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Yarr_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Yarr_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Yarr_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "monastery":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheMonastery\" target=\"_blank\" rel=\"noopener noreferrer\">The Monastery</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheMonastery\" target=\"_blank\" rel=\"noopener noreferrer\">The Monastery</a><br><a href=\"https://aardwolfboot.com/map/Monastery_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Monastery_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Monastery_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Monastery_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "desolation":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheMountainsOfDesolation\" target=\"_blank\" rel=\"noopener noreferrer\">The Mountains of Desolation</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheMountainsOfDesolation\" target=\"_blank\" rel=\"noopener noreferrer\">The Mountains of Desolation</a><br><a href=\"https://aardwolfboot.com/map/Desolation_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Desolation_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Desolation_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Desolation_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "ninehells":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheNineHells\" target=\"_blank\" rel=\"noopener noreferrer\">The Nine Hells</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheNineHells\" target=\"_blank\" rel=\"noopener noreferrer\">The Nine Hells</a><br><a href=\"https://aardwolfboot.com/map/Hells_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Ninehells_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "nynewoods":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheNyneWoods\" target=\"_blank\" rel=\"noopener noreferrer\">The Nyne Woods</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheNyneWoods\" target=\"_blank\" rel=\"noopener noreferrer\">The Nyne Woods</a><br><a href=\"https://aardwolfboot.com/map/Nyne_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "cathedral":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheOldCathedral\" target=\"_blank\" rel=\"noopener noreferrer\">The Old Cathedral</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheOldCathedral\" target=\"_blank\" rel=\"noopener noreferrer\">The Old Cathedral</a><br><a href=\"https://aardwolfboot.com/map/Cathedral_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Cathedral_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Cathedral_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Cathedral_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "songpalace":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ThePalaceOfSong\" target=\"_blank\" rel=\"noopener noreferrer\">The Palace of Song</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ThePalaceOfSong\" target=\"_blank\" rel=\"noopener noreferrer\">The Palace of Song</a><br><a href=\"https://aardwolfboot.com/map/Song_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Song_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "partroxis":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ThePartroxis\" target=\"_blank\" rel=\"noopener noreferrer\">The Partroxis</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ThePartroxis\" target=\"_blank\" rel=\"noopener noreferrer\">The Partroxis</a><br><a href=\"https://aardwolfboot.com/map/Partroxis_Erko.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Erko</a><br><a href=\"https://aardwolfboot.com/map/Partroxis_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Partroxis_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "believer":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ThePathOfTheBeliever\" target=\"_blank\" rel=\"noopener noreferrer\">The Path of the Believer</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ThePathOfTheBeliever\" target=\"_blank\" rel=\"noopener noreferrer\">The Path of the Believer</a><br><a href=\"https://aardwolfboot.com/map/Believer_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Believer_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Believer_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "hawklord":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheRealmOfTheHawklords\" target=\"_blank\" rel=\"noopener noreferrer\">The Realm of the Hawklords</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheRealmOfTheHawklords\" target=\"_blank\" rel=\"noopener noreferrer\">The Realm of the Hawklords</a><br><a href=\"https://aardwolfboot.com/map/Hawklords_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Hawklords_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "remcon":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheRemanConspiracy\" target=\"_blank\" rel=\"noopener noreferrer\">The Reman Conspiracy</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheRemanConspiracy\" target=\"_blank\" rel=\"noopener noreferrer\">The Reman Conspiracy</a><br><a href=\"https://aardwolfboot.com/map/Reman_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Reman_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "ruins":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheRuinsOfDiamondReach\" target=\"_blank\" rel=\"noopener noreferrer\">The Ruins of Diamond Reach</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheRuinsOfDiamondReach\" target=\"_blank\" rel=\"noopener noreferrer\">The Ruins of Diamond Reach</a><br><a href=\"https://aardwolfboot.com/map/Diamondreach_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Diamondreach_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "stormhaven":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheRuinsOfStormhaven\" target=\"_blank\" rel=\"noopener noreferrer\">The Ruins of Stormhaven</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheRuinsOfStormhaven\" target=\"_blank\" rel=\"noopener noreferrer\">The Ruins of Stormhaven</a><br><a href=\"https://aardwolfboot.com/map/Stormhaven_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Stormhaven_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "sanguine":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheSanguineTavern\" target=\"_blank\" rel=\"noopener noreferrer\">The Sanguine Tavern</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheSanguineTavern\" target=\"_blank\" rel=\"noopener noreferrer\">The Sanguine Tavern</a><br><a href=\"https://aardwolfboot.com/map/Sanguine_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "scarred":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheScarredLands\" target=\"_blank\" rel=\"noopener noreferrer\">The Scarred Lands</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheScarredLands\" target=\"_blank\" rel=\"noopener noreferrer\">The Scarred Lands</a><br><a href=\"https://aardwolfboot.com/map/Scarred_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Scarredlands_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Scarred_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "soh":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheSchoolOfHorror\" target=\"_blank\" rel=\"noopener noreferrer\">The School of Horror</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheSchoolOfHorror\" target=\"_blank\" rel=\"noopener noreferrer\">The School of Horror</a><br><a href=\"https://aardwolfboot.com/map/Horror2_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/OuterSpace.png\" target=\"_blank\" rel=\"noopener noreferrer\">Anaristos</a>"
+    },
+    "sohtwo":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheSchoolOfHorror\" target=\"_blank\" rel=\"noopener noreferrer\">The School of Horror</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheSchoolOfHorror\" target=\"_blank\" rel=\"noopener noreferrer\">The School of Horror</a><br><a href=\"https://aardwolfboot.com/map/Horror2_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/OuterSpace.png\" target=\"_blank\" rel=\"noopener noreferrer\">Anaristos</a>"
+    },
+    "minos":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheShadowsOfMinos\" target=\"_blank\" rel=\"noopener noreferrer\">The Shadows of Minos</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheShadowsOfMinos\" target=\"_blank\" rel=\"noopener noreferrer\">The Shadows of Minos</a><br><a href=\"https://aardwolfboot.com/map/Minos_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Minos_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Minos_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Minos_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "volcano":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheSilverVolcano\" target=\"_blank\" rel=\"noopener noreferrer\">The Silver Volcano</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheSilverVolcano\" target=\"_blank\" rel=\"noopener noreferrer\">The Silver Volcano</a><br><a href=\"https://aardwolfboot.com/map/Volcano_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Volcano_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Volcano_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Volcano_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "slaughter":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheSlaughterHouse\" target=\"_blank\" rel=\"noopener noreferrer\">The Slaughter House</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheSlaughterHouse\" target=\"_blank\" rel=\"noopener noreferrer\">The Slaughter House</a><br><a href=\"https://aardwolfboot.com/map/Slaughterhouse_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Slaughterhouse_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Slaughterhouse_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "southern":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheSouthernOcean\" target=\"_blank\" rel=\"noopener noreferrer\">The Southern Ocean</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheSouthernOcean\" target=\"_blank\" rel=\"noopener noreferrer\">The Southern Ocean</a>"
+    },
+    "stuff":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheStuffOfShadows\" target=\"_blank\" rel=\"noopener noreferrer\">The Stuff of Shadows</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheStuffOfShadows\" target=\"_blank\" rel=\"noopener noreferrer\">The Stuff of Shadows</a><br><a href=\"https://aardwolfboot.com/map/Stuff_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Stuff_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "temple":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheTempleOfShalindrael\" target=\"_blank\" rel=\"noopener noreferrer\">The Temple of Shal'indrael</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheTempleOfShalindrael\" target=\"_blank\" rel=\"noopener noreferrer\">The Temple of Shal'indrael</a><br><a href=\"https://aardwolfboot.com/map/Shalindrael_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Shalindrael_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "shouggoth":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheTempleOfShouggoth\" target=\"_blank\" rel=\"noopener noreferrer\">The Temple of Shouggoth</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheTempleOfShouggoth\" target=\"_blank\" rel=\"noopener noreferrer\">The Temple of Shouggoth</a><br><a href=\"https://aardwolfboot.com/map/Shouggoth_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Shouggoth_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Shouggoth_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Shouggoth_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "diatz":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheThreePillarsOfDiatz\" target=\"_blank\" rel=\"noopener noreferrer\">The Three Pillars of Diatz</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheThreePillarsOfDiatz\" target=\"_blank\" rel=\"noopener noreferrer\">The Three Pillars of Diatz</a><br><a href=\"https://aardwolfboot.com/map/Diatz_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Diatz_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Diatz_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Diatz_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "titan":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheTitansKeep\" target=\"_blank\" rel=\"noopener noreferrer\">The Titans' Keep</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheTitansKeep\" target=\"_blank\" rel=\"noopener noreferrer\">The Titans' Keep</a>"
+    },
+    "illoria":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheTournamentOfIlloria\" target=\"_blank\" rel=\"noopener noreferrer\">The Tournament of Illoria</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheTournamentOfIlloria\" target=\"_blank\" rel=\"noopener noreferrer\">The Tournament of Illoria</a><br><a href=\"https://aardwolfboot.com/map/Illoria_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Illoria_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Illoria_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Illoria_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "solan":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheTownOfSolan\" target=\"_blank\" rel=\"noopener noreferrer\">The Town of Solan</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheTownOfSolan\" target=\"_blank\" rel=\"noopener noreferrer\">The Town of Solan</a><br><a href=\"https://aardwolfboot.com/map/Solan_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Solan_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Solan_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "tol":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheTreeOfLife\" target=\"_blank\" rel=\"noopener noreferrer\">The Tree of Life</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheTreeOfLife\" target=\"_blank\" rel=\"noopener noreferrer\">The Tree of Life</a><br><a href=\"https://aardwolfboot.com/map/Tol_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a>"
+    },
+    "gwillim":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheTroubleWithGwillimberry\" target=\"_blank\" rel=\"noopener noreferrer\">The Trouble with Gwillimberry</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheTroubleWithGwillimberry\" target=\"_blank\" rel=\"noopener noreferrer\">The Trouble with Gwillimberry</a><br><a href=\"https://aardwolfboot.com/map/Gwillimberry_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "uncharted":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheUnchartedOceans\" target=\"_blank\" rel=\"noopener noreferrer\">The Uncharted Oceans</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheUnchartedOceans\" target=\"_blank\" rel=\"noopener noreferrer\">The Uncharted Oceans</a>"
+    },
+    "underdark":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheUnderDark\" target=\"_blank\" rel=\"noopener noreferrer\">The UnderDark</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheUnderDark\" target=\"_blank\" rel=\"noopener noreferrer\">The UnderDark</a><br><a href=\"https://aardwolfboot.com/map/Underdark_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Underdark_Emerald.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Underdark_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Underdark_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Underdark_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "uplanes":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheUpperPlanes\" target=\"_blank\" rel=\"noopener noreferrer\">The Upper Planes</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheUpperPlanes\" target=\"_blank\" rel=\"noopener noreferrer\">The Upper Planes</a><br><a href=\"https://aardwolfboot.com/map/Upperplanes_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "uprising":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheUprising\" target=\"_blank\" rel=\"noopener noreferrer\">The Uprising</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheUprising\" target=\"_blank\" rel=\"noopener noreferrer\">The Uprising</a><br><a href=\"https://aardwolfboot.com/map/Uprising_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "werewood":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheWereWood\" target=\"_blank\" rel=\"noopener noreferrer\">The Were Wood</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheWereWood\" target=\"_blank\" rel=\"noopener noreferrer\">The Were Wood</a><br><a href=\"https://aardwolfboot.com/map/Werewood_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Werewood_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "omentor":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheWitchesOfOmenTor\" target=\"_blank\" rel=\"noopener noreferrer\">The Witches of Omen Tor</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheWitchesOfOmenTor\" target=\"_blank\" rel=\"noopener noreferrer\">The Witches of Omen Tor</a><br><a href=\"https://aardwolfboot.com/map/Omentor_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Omentor_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "wooble":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheWobblyWoesOfWoobleville\" target=\"_blank\" rel=\"noopener noreferrer\">The Wobbly Woes of Woobleville</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheWobblyWoesOfWoobleville\" target=\"_blank\" rel=\"noopener noreferrer\">The Wobbly Woes of Woobleville</a><br><a href=\"https://aardwolfboot.com/map/Woobleville_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Woobleville_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Woobleville_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Woobleville_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "woodelves":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheWoodElvesOfNalondir\" target=\"_blank\" rel=\"noopener noreferrer\">The Wood Elves of Nalondir</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheWoodElvesOfNalondir\" target=\"_blank\" rel=\"noopener noreferrer\">The Wood Elves of Nalondir</a><br><a href=\"https://aardwolfboot.com/map/Nalondir_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Nalondir_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Nalondir_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Nalondir_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "yurgach":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheYurgachDomain\" target=\"_blank\" rel=\"noopener noreferrer\">The Yurgach Domain</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TheYurgachDomain\" target=\"_blank\" rel=\"noopener noreferrer\">The Yurgach Domain</a><br><a href=\"https://aardwolfboot.com/map/Jenny_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Yurgach_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "tirna":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TirNaNOg\" target=\"_blank\" rel=\"noopener noreferrer\">Tir na nOg</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TirNaNOg\" target=\"_blank\" rel=\"noopener noreferrer\">Tir na nOg</a><br><a href=\"https://aardwolfboot.com/map/Tirnanog_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Tirnanog_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "camps":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TournamentCamps\" target=\"_blank\" rel=\"noopener noreferrer\">Tournament Camps</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TournamentCamps\" target=\"_blank\" rel=\"noopener noreferrer\">Tournament Camps</a><br><a href=\"https://aardwolfboot.com/map/Tournament_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Tournamentcamps_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Tournament_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Tournament_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Tournament_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "origins":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TribalOrigins\" target=\"_blank\" rel=\"noopener noreferrer\">Tribal Origins</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TribalOrigins\" target=\"_blank\" rel=\"noopener noreferrer\">Tribal Origins</a><br><a href=\"https://aardwolfboot.com/map/Tribal_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a><br><a href=\"https://aardwolfboot.com/map/Tribal_Seekers_VI.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">(PDF)</a>"
+    },
+    "diner":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TumarisDiner\" target=\"_blank\" rel=\"noopener noreferrer\">Tumari's Diner</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/TumarisDiner\" target=\"_blank\" rel=\"noopener noreferrer\">Tumari's Diner</a><br><a href=\"https://aardwolfboot.com/map/Tumari_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "umari":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/UmarisCastle\" target=\"_blank\" rel=\"noopener noreferrer\">Umari's Castle</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/UmarisCastle\" target=\"_blank\" rel=\"noopener noreferrer\">Umari's Castle</a><br><a href=\"https://aardwolfboot.com/map/Umari_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Umari_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Umari_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "bonds":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/UnearthlyBonds\" target=\"_blank\" rel=\"noopener noreferrer\">Unearthly Bonds</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/UnearthlyBonds\" target=\"_blank\" rel=\"noopener noreferrer\">Unearthly Bonds</a><br><a href=\"https://aardwolfboot.com/map/Unearthlybonds_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Unearthly_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Unearthly_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Unearthly_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "verdure":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/VerdureEstate\" target=\"_blank\" rel=\"noopener noreferrer\">Verdure Estate</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/VerdureEstate\" target=\"_blank\" rel=\"noopener noreferrer\">Verdure Estate</a><br><a href=\"https://aardwolfboot.com/map/Verdure_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Verdure_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "vidblain":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/VidblainTheEverDark\" target=\"_blank\" rel=\"noopener noreferrer\">Vidblain, the Ever Dark</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/VidblainTheEverDark\" target=\"_blank\" rel=\"noopener noreferrer\">Vidblain, the Ever Dark</a><br><a href=\"https://aardwolfboot.com/map/Vidblain_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Vidblain_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Vidblain_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "wizards":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/WarOfTheWizards\" target=\"_blank\" rel=\"noopener noreferrer\">War of the Wizards</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/WarOfTheWizards\" target=\"_blank\" rel=\"noopener noreferrer\">War of the Wizards</a><br><a href=\"https://aardwolfboot.com/map/Wizards_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Wizards_Emerald.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Wizards_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Wizards_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Wizards_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "wtc":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/WarriorsTrainingCamp\" target=\"_blank\" rel=\"noopener noreferrer\">Warrior's Training Camp</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/WarriorsTrainingCamp\" target=\"_blank\" rel=\"noopener noreferrer\">Warrior's Training Camp</a><br><a href=\"https://aardwolfboot.com/map/WTC_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/WTC_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/WTC_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "alehouse":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/WaywardAlehouse\" target=\"_blank\" rel=\"noopener noreferrer\">Wayward Alehouse</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/WaywardAlehouse\" target=\"_blank\" rel=\"noopener noreferrer\">Wayward Alehouse</a><br><a href=\"https://aardwolfboot.com/map/Wayward_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Wayward_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Alehouse_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "weather":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/WeatherObservatory\" target=\"_blank\" rel=\"noopener noreferrer\">Weather Observatory</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/WeatherObservatory\" target=\"_blank\" rel=\"noopener noreferrer\">Weather Observatory</a><br><a href=\"https://aardwolfboot.com/map/Observatory_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Observatory_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Observatory_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Observatory_Light.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "bliss":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/WeddedBliss\" target=\"_blank\" rel=\"noopener noreferrer\">Wedded Bliss</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/WeddedBliss\" target=\"_blank\" rel=\"noopener noreferrer\">Wedded Bliss</a><br><a href=\"https://aardwolfboot.com/map/Weddedbliss_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Bliss_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Bliss_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a><br><a href=\"https://aardwolfboot.com/map/Bliss_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "wildwood":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Wildwood\" target=\"_blank\" rel=\"noopener noreferrer\">Wildwood</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Wildwood\" target=\"_blank\" rel=\"noopener noreferrer\">Wildwood</a><br><a href=\"https://aardwolfboot.com/map/Wildwood_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Wildwood_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "winter":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Winterlands\" target=\"_blank\" rel=\"noopener noreferrer\">Winterlands</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/Winterlands\" target=\"_blank\" rel=\"noopener noreferrer\">Winterlands</a><br><a href=\"https://aardwolfboot.com/map/Winterlands_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Winterlands_Gaardian.html\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a><br><a href=\"https://aardwolfboot.com/map/Winterlands_Gaardian_VI.html\" target=\"_blank\" rel=\"noopener noreferrer\">(VI)</a>"
+    },
+    "xylmos":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/XylsMosaic\" target=\"_blank\" rel=\"noopener noreferrer\">Xyl's Mosaic</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/XylsMosaic\" target=\"_blank\" rel=\"noopener noreferrer\">Xyl's Mosaic</a><br><a href=\"https://aardwolfboot.com/map/Xyl_Anaristos.png\" target=\"_blank\" rel=\"noopener noreferrer\">Anaristos</a><br><a href=\"https://aardwolfboot.com/map/Xyl_Cabal.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Cabal</a><br><a href=\"https://aardwolfboot.com/map/Xyl_Light.png\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Xyls_Seekers.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers (PDF)</a>"
+    },
+    "ygg":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/YggdrasilTheWorldTree\" target=\"_blank\" rel=\"noopener noreferrer\">Yggdrasil: The World Tree</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/YggdrasilTheWorldTree\" target=\"_blank\" rel=\"noopener noreferrer\">Yggdrasil: The World Tree</a><br><a href=\"https://aardwolfboot.com/map/Yggdrasil_Chaos.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Chaos</a><br><a href=\"https://aardwolfboot.com/map/Ygg_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a>"
+    },
+    "zangar":
+    {
+        "details": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ZangarsDemonicGrotto\" target=\"_blank\" rel=\"noopener noreferrer\">Zangar's Demonic Grotto</a>",
+        "maps": "<a href=\"http://www.aardwolf.com/wiki/index.php/Area/ZangarsDemonicGrotto\" target=\"_blank\" rel=\"noopener noreferrer\">Zangar's Demonic Grotto</a><br><a href=\"https://aardwolfboot.com/map/Zangar_Emerald.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Emerald</a><br><a href=\"https://aardwolfboot.com/map/Zangar_Light.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Light</a><br><a href=\"https://aardwolfboot.com/map/Zangar_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "afterglow":
+    {
+        "details": "Afterglow",
+        "maps": ""
+    },
+    "N/A":
+    {
+        "details": "Immortal Homes",
+        "maps": "<a href=\"https://aardwolfboot.com/map/Immhomes_Seekers.gif\" target=\"_blank\" rel=\"noopener noreferrer\">Seekers</a>"
+    },
+    "inferno":
+    {
+        "details": "Journey to the Inferno",
+        "maps": "<a href=\"https://aardwolfboot.com/map/Inferno_Yowza.png\" target=\"_blank\" rel=\"noopener noreferrer\">Yowza</a>"
+    },
+    "radiance":
+    {
+        "details": "Radiance Woods",
+        "maps": "<a href=\"https://aardwolfboot.com/map/index.php?areaid=355\" target=\"_blank\" rel=\"noopener noreferrer\">Gaardian</a>"
+    }
+}
