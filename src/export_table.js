@@ -11,7 +11,7 @@ $('tr').each(function(i, row) {
 	var arid = $row.find('td.column-3').html()
 	if (arid) {
 		anchors = [];
-		$row.find('a').each(function(i, anchor) {
+		$row.find('td.column-2 a').each(function(i, anchor) {
 			anchors.push(`<a href=\"${anchor.href}\" target=\"_blank\" rel=\"noopener noreferrer\">${anchor.textContent}</a>`)
 		});
 		maplinks_by_area[arid] = {
