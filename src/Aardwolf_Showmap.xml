@@ -110,7 +110,7 @@ Special thanks to Touchstone clan for giving me their original database of links
 	require "tprint"
 	local currentRoom = {} -- here we will store gmcp room and area data we receive
 	local helper_show_maps = 0
-	local showmap_ver = "1.1.0"
+	local showmap_ver = "1.1.1"
 	local mapTable = {}
 
 	local MAP_LINKS = "https://aardwolfboot.com/maps-json/"
@@ -183,7 +183,7 @@ Special thanks to Touchstone clan for giving me their original database of links
 				areaid = find_area(wildcards[1])
 			end
 		end
-		
+
 		if (areaid == nil) then
 			ColourNote("SteelBlue", "", "Unable to find maps for area name matching: ", "Red", "", wildcards[1])
 			print("")
@@ -196,13 +196,20 @@ Special thanks to Touchstone clan for giving me their original database of links
 				wikiLinks = parse_urls(mapTable[i].AreaName)
 				areaMaps1 = parse_urls(mapTable[i].Maps)
 				areaMaps2 = parse_urls(mapTable[i].Maps2)
-				if not wikiLinks or not areaMaps1 or not areaMaps2 then
+				if not areaMaps1 or #areaMaps1 == 0 then
 					ColourNote("SteelBlue", "", "Unable to find maps for area name matching: ", "Red", "", areaid)
 					return
 				end
 				NoteStyle(2)
 				print("")
-				ColourNote("SteelBlue", "", wikiLinks[1].Name .. " (", "MediumSeaGreen", "", mapTable[i].Runto, "SteelBlue", "", ")" .. " - [Lvl " .. mapTable[i].From .. " - " .. mapTable[i].To .. "] -" .. " Builder(s): " .. mapTable[i].Builder)
+				local areaName
+
+				if wikiLinks and #wikiLinks > 0 then
+					areaName = wikiLinks[1].Name
+				else
+					areaName = mapTable[i].AreaName
+				end
+				ColourNote("SteelBlue", "", areaName .. " (", "MediumSeaGreen", "", mapTable[i].Runto, "SteelBlue", "", ")" .. " - [Lvl " .. mapTable[i].From .. " - " .. mapTable[i].To .. "] -" .. " Builder(s): " .. mapTable[i].Builder)
 
 				NoteStyle(0)
 				print("")   
@@ -230,7 +237,7 @@ Special thanks to Touchstone clan for giving me their original database of links
 					return
 				end
 
-				if (GetVariable("ToggleMirror") == "1") then
+				if (GetVariable("ToggleMirror") == "1") and areaMaps2 then
 					print("\r\nTouchstone hosted:")
 					for i = 1, #areaMaps2 do
 						if (GetVariable("ToggleVI") ~= "1") then
@@ -297,7 +304,7 @@ Special thanks to Touchstone clan for giving me their original database of links
 		local linkNamePat = [[<a[^>]->(.-)</a>]]
 		local maps = {}
 		local matches = {}
-		if mapStr == nil then
+		if mapStr == nil or mapStr == "" then
 			return
 		end
 		string.gsub(mapStr, hrefPat, function(match) matches[#matches+1] = match end)
@@ -412,7 +419,6 @@ Special thanks to Touchstone clan for giving me their original database of links
 			map_data = html_decode(map_data)
 			local decoded = json.decode(map_data)
 			update_maps_from_live_data(decoded)
-			-- SetClipboard(map_data)
 		end
 	end
 
@@ -422,21 +428,27 @@ Special thanks to Touchstone clan for giving me their original database of links
 			"DELETE FROM areamaps;"
 		}
 
+		if map_data.data then
+			map_data = map_data.data
+		end
+
 		for i, area_data in ipairs(map_data) do
-			table.insert(operations, string.format([[
-				INSERT INTO areamaps (AreaName, Runto, Builder, `From`, `To`, Lock, Goal, Maps, Maps2)
-				VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s);
-				]],
-				fixsql(area_data[1]),
-				fixsql(area_data[4]),
-				fixsql(area_data[5]),
-				fixsql(area_data[6]),
-				fixsql(area_data[7]),
-				fixsql(area_data[8]),
-				fixsql(area_data[9]),
-				fixsql(area_data[2]),
-				fixsql(area_data[3]))
-			)
+			if area_data[1] ~= "Area" then
+				table.insert(operations, string.format([[
+					INSERT INTO areamaps (AreaName, Runto, Builder, `From`, `To`, Lock, Goal, Maps, Maps2)
+					VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s);
+					]],
+					fixsql(area_data[1]),
+					fixsql(area_data[4]),
+					fixsql(area_data[5]),
+					fixsql(area_data[6]),
+					fixsql(area_data[7]),
+					fixsql(area_data[8]),
+					fixsql(area_data[9]),
+					fixsql(area_data[2]),
+					fixsql(area_data[3]))
+				)
+			end
 		end
 		table.insert(operations, "COMMIT;")
 		db:exec(table.concat(operations, ""))
